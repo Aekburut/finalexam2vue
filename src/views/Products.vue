@@ -18,6 +18,10 @@ export default {
       pageIndex: 1,
       fields: [
         {
+          key: "supplier_id",
+          sortable: true
+        },
+        {
           key: "company_name",
           sortable: true
         },
